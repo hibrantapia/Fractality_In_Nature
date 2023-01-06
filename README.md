@@ -1,13 +1,13 @@
 # Fractality In Nature
 
 <h3 align="center">Mandelbrot Set</h3>
-<p align="center"> <img src = "/Extra_Stuff/Mandelbrot.png" width = 650> </p>
+<p align="center"> <img src = "/Extra_Stuff/Mandelbrot.png" width = 550> </p>
 
 <h3 align="center">Julia Set</h3>
-<p align="center"> <img src = "/Extra_Stuff/Julia.png" width = 650> </p>
+<p align="center"> <img src = "/Extra_Stuff/Julia.png" width = 550> </p>
 
 <h3 align="center">Sierpinski Triangle</h3>
-<p align="center"> <img src = "/Extra_Stuff/Sierpinski.png" width = 650> </p>
+<p align="center"> <img src = "/Extra_Stuff/Sierpinski.png" width = 550> </p>
 
 <h2 align="left">Recipe</h2>
 
