@@ -1,5 +1,7 @@
 ## Fractality In Nature
 
+### School Project
+
 <h3 align="center">Mandelbrot Set</h3>
 <p align="center"> <img src = "/Extra_Stuff/Mandelbrot.png" width = 550> </p>
 
@@ -11,13 +13,13 @@
 
 <h2 align="left">Recipe</h2>
 
-1.
-2.
+1. In this simple GitHub Repository, I uploaded 3 files, each containing the resource code to generate the three fractals: Mandelbrot Set, Julia Set and Sierpinski Triangle.
+2. You don't need anything special to run the programs.
 
 <h2 align="left">Extra Stuff</h3>
 
-- I downloaded the graphics and save them from 1 - 9, so you can see them at a glance.
-- I made an infographic about this project, make sure to check out the PDF file, make sure to check out the autors.
+- I downloaded the graphics and save them, so you can see them at a glance.
+- This is a  made an infographic about this project, make sure to check out the PDF file, make sure to check out the autors.
 
 #### Check out my social stuff for more:
 
