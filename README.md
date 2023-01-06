@@ -1,4 +1,4 @@
-# Fractality In Nature
+## Fractality In Nature
 
 <h3 align="center">Mandelbrot Set</h3>
 <p align="center"> <img src = "/Extra_Stuff/Mandelbrot.png" width = 550> </p>
