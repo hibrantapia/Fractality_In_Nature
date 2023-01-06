@@ -18,7 +18,7 @@
 
 <h2 align="left">Extra Stuff</h3>
 
-- I downloaded the graphics and save them, so you can see them at a glance.
+- I downloaded the graphics and save them so you can see them at a glance.
 - This is a College Project, make sure to check out the PDF file and check out the autors.
 
 #### Check out my social stuff for more:
