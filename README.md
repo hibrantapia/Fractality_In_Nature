@@ -1,6 +1,6 @@
 ## Fractality In Nature
 
-#### School Project
+#### College Project, make sure to read the PDF article, in "Extra_Stuff".
 
 <h3 align="center">Mandelbrot Set</h3>
 <p align="center"> <img src = "/Extra_Stuff/Mandelbrot.png" width = 550> </p>
@@ -19,7 +19,7 @@
 <h2 align="left">Extra Stuff</h3>
 
 - I downloaded the graphics and save them, so you can see them at a glance.
-- This is a  made an infographic about this project, make sure to check out the PDF file, make sure to check out the autors.
+- This is a College Project, make sure to check out the PDF file and check out the autors.
 
 #### Check out my social stuff for more:
 
