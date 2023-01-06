@@ -1,6 +1,6 @@
 ## Fractality In Nature
 
-#### College Project, make sure to read the PDF article, in "Extra_Stuff".
+#### College Project - Make sure to read the PDF article in "Extra_Stuff".
 
 <h3 align="center">Mandelbrot Set</h3>
 <p align="center"> <img src = "/Extra_Stuff/Mandelbrot.png" width = 550> </p>
