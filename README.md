@@ -1,6 +1,6 @@
 ## Fractality In Nature
 
-### School Project
+#### School Project
 
 <h3 align="center">Mandelbrot Set</h3>
 <p align="center"> <img src = "/Extra_Stuff/Mandelbrot.png" width = 550> </p>
