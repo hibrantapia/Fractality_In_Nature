@@ -13,7 +13,7 @@
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 3 files, each containing the resource code to generate the three fractals: Mandelbrot Set, Julia Set and Sierpinski Triangle.
+1. In this simple GitHub Repository, I uploaded 3 files, each containing the source code to generate the three fractals: Mandelbrot Set, Julia Set and Sierpinski Triangle.
 2. You don't need anything special to run the programs.
 
 <h2 align="left">Extra Stuff</h3>
